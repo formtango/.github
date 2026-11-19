@@ -12,7 +12,15 @@
 
 Free for 100 submissions a month.
 
-## Templates
+## Free templates
+
+| Template | Demo | Repo |
+| --- | --- | --- |
+| Portfolio (HTML and CSS) | [demo](https://formtango.github.io/portfolio-template/) | [portfolio-template](https://github.com/formtango/portfolio-template) |
+| Waitlist landing page | [demo](https://formtango.github.io/waitlist-template/) | [waitlist-template](https://github.com/formtango/waitlist-template) |
+| 21 HTML and Tailwind forms | [browse](https://formtango.com/templates) | [html-form-templates](https://github.com/formtango/html-form-templates) |
+
+## Starters by framework
 
 | Stack | Repo |
 | --- | --- |
@@ -24,6 +32,8 @@ Free for 100 submissions a month.
 ## For AI coding tools
 
 - [MCP server](https://github.com/formtango/mcp): create forms and read submissions from Claude, Cursor, ChatGPT and others
+- [`formtango-mcp`](https://github.com/formtango/formtango-mcp): the same, run locally with `npx formtango-mcp`
+- [Agent skills](https://github.com/formtango/skills): add a form, file uploads, Google Sheets, debugging
 - [Claude Code plugin](https://github.com/formtango/claude-plugin) · [Gemini CLI extension](https://github.com/formtango/gemini-extension)
 - An agent can create a working form with no signup: see [formtango.com/ai](https://formtango.com/ai)
 
